@@ -249,6 +249,7 @@ template {
 
 body {
   width: 1440px;
+  height: auto;
   background: #FFF;
   margin: auto;
 }
